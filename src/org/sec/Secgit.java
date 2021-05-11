@@ -9,5 +9,5 @@ public class Secgit {
 		System.out.println("In Mumbai");
 
 	}
-
+	int a=10;
 }
