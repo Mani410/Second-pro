@@ -1,13 +1,9 @@
 package org.sec;
 
 public class Secgit {
-	private void Employee1() {
-		System.out.println("In Delhi");
-
+	private void Empid() {
+	System.out.println("225");
+	int b=20;
+	System.out.println("B");
 	}
-	private void Employee2() {
-		System.out.println("In Mumbai");
-
-	}
-
 }
