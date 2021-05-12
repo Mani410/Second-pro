@@ -10,4 +10,5 @@ public class Secgit {
 
 	}
 	int a=10;
+	int s=41;
 }
