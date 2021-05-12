@@ -6,4 +6,5 @@ public class Secgit {
 	int b=20;
 	System.out.println("B");
 	}
+	int a=10;
 }
